@@ -141,3 +141,6 @@ tags
 # Libre Office #
 # ####################
  *.odp#
+
+# gradle files
+ .gradle
